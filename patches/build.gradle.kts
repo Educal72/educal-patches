@@ -6,7 +6,7 @@ patches {
         name = "Educal Patches"
         description = "Patches for apps I use which patches didn't already exist."
         source = "https://github.com/Educal72/educal-patches"
-        author = "Awesome dev"
+        author = "Educal"
         contact = "educal72@libraserver.site"
         website = "libraserver.site"
         license = "GPLv3"
