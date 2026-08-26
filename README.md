@@ -2,7 +2,7 @@
 
 <!-- Short one-liner about what your patches do. Example: -->
 <!-- Custom Morphe patches for apps I use. -->
-FILL_ME: One sentence describing this repo.
+Morphe Patches for apps I use which didn't have one.
 
 ## ❓ About
 
@@ -11,7 +11,7 @@ FILL_ME: About paragraph.
 
 Currently supported apps:
 
-- **Viddit** (`aculix.viddit.downloader`) — FILL_ME: short description, e.g. "Unlock Premium features for free."
+- **Viddit** (`aculix.viddit.downloader`) — "App to download reddit videos and gifs from posts, the patch is to unlock premium features for free."
 
 ## 🩹 Patches list
 
@@ -25,10 +25,10 @@ A list of patches will be automatically shown here after your first patches rele
 ## 📲 How to use these patches
 
 Click here to add these patches to Morphe:
-`https://morphe.software/add-source?github=Educal72/educal-patches`
+https://morphe.software/add-source?github=Educal72/educal-patches
 
 Or manually add this repository as a remote patch source in Morphe:
-`https://github.com/Educal72/educal-patches`
+https://github.com/Educal72/educal-patches
 
 ## 🚀 Getting started (for you, the maintainer, using Morphe Desktop)
 
@@ -54,7 +54,6 @@ To build Educal Patches yourself, follow the [Morphe documentation](https://gith
 
 ## ⚠️ Disclaimer
 
-FILL_ME (optional but recommended), e.g.:
 > These patches are provided as-is, for educational purposes. I am not responsible for any issues, bans, or damages resulting from their use. Use at your own risk.
 
 ## 📜 License
