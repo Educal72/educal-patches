@@ -17,7 +17,17 @@ Currently supported apps:
 
 
 <!-- PATCHES_START EXPANDED -->
-> **[v0.0.0](https://github.com/Educal72/educal-patches/releases/tag/v0.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;0 patches total
+> **[v1.0.0](https://github.com/Educal72/educal-patches/releases/tag/v1.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Viddit&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Unlock Premium](#unlock-premium) | Forces the app to always consider the user as premium. |  |
+
+</details>
+
 <!-- PATCHES_END -->
 <!--
   Do NOT edit this section by hand â€” Morphe's release workflow auto-generates
