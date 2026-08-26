@@ -14,7 +14,7 @@ private val COMPATIBILITY_VIDDIT = Compatibility(
     description = "Reddit video downloader",
     apkFileType = ApkFileType.APK,
     appIconColor = 0x6200EE,
-    targets = listOf(AppTarget(version = null))
+    targets = listOf(AppTarget(version = "4.3"))
 )
 
 object PremiumCheckFingerprint : Fingerprint(
